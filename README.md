@@ -1,11 +1,10 @@
 # Tableau Story: Global Superstore Sales Analysis
 
-<div class='tableauPlaceholder' id='viz1764278460963' style='position: relative'><noscript><a href='#'><img alt='Global Superstore ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalSuperstoreSalesAnalysis_17642783398200&#47;GlobalSuperstore&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalSuperstoreSalesAnalysis_17642783398200&#47;GlobalSuperstore' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalSuperstoreSalesAnalysis_17642783398200&#47;GlobalSuperstore&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>
-
-## 📘 Project Overview
+🔗 View the Interactive Story on Tableau Public
+https://public.tableau.com/views/GlobalSuperstoreSalesAnalysis_17642783398200/GlobalSuperstore?:language=zh-TW&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 This project analyzes global sales, profitability, customer segments, and product performance using the Global Superstore dataset.
-A four-page Tableau Story was created to communicate insights through interactive dashboards, static charts, and data-driven storytelling.
+A five-page Tableau Story was created to communicate insights through interactive dashboards, static charts, and data-driven storytelling.
 
 The dashboards demonstrate:  
 * KPI tracking and geographic drill-down  
@@ -15,27 +14,15 @@ The dashboards demonstrate:
 * Sub-category growth comparison  
 * Discount vs Sales behavioral patterns
 
-## 🧰 Tools Used
-
-* Tableau Desktop – Visualization & Storytelling  
-* Tableau Public – Publishing  
-* Excel / Google Sheets – Data cleaning (minor adjustments)  
-* GitHub – Project documentation
-
 ## 🗂️ Dashboard Index
-###📍 Page 1 — Interactive Global Overview
+### 📍 Page 1 — Interactive Global Overview
 
-Interactive map of Profit by Country
-
-Market / Region hierarchical filters
-
-Dynamic color-highlighting logic
-
-KPI cards (Sales, Profit, Margin, Orders, Quantity, Discount)
-
-Profit by Region (bar)
-
-Sub-category heatmap
+* Interactive map of Profit by Country  
+* Market / Region hierarchical filters
+* Dynamic color-highlighting logic  
+* KPI cards (Sales, Profit, Margin, Orders, Quantity, Discount)
+* Profit by Region (bar)
+* Sub-category heatmap
 
 (Insert screenshot here)
 
