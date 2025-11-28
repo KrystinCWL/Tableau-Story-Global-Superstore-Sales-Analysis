@@ -24,7 +24,7 @@ The dashboards demonstrate:
 * Profit by Region (bar)
 * Sub-category heatmap
 
-(Insert screenshot here)
+[![Global Superstore Dashboard](images/Global Superstore_Overview Dashboard.png)](https://public.tableau.com/views/GlobalSuperstoreSalesAnalysis_17642783398200/GlobalSuperstore)
 
 ### 📍 Page 2 — Sales Performance Analysis
 
